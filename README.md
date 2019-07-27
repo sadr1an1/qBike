@@ -4,9 +4,7 @@ Adrian Stanescu built qBike app as a commercial app.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my application.
 
-If you choose to use my application, then you must know that the application stores iPhone locations on phone memmory.
-
-All the data collected is stored on your device and it is not transmitted or used by anyone.
+If you choose to use my application, then you must know that the application stores data only locally and the data is never transmitted outside of your device.
 
 # Security
 
