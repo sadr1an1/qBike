@@ -4,11 +4,9 @@ Adrian Stanescu built qBike app as a commercial app.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my application.
 
-If you choose to use my application, then you must know that the application stores iPhone locations for the past week only when it is connected to the scooter through Bluetooth.
+If you choose to use my application, then you must know that the application stores iPhone locations on phone memmory.
 
 All the data collected is stored on your device and it is not transmitted or used by anyone.
-
-Every time the application starts it erases all the data older than one week.
 
 # Security
 
