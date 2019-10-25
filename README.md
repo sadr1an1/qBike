@@ -1,6 +1,6 @@
 # qBike Privacy Policy
 
-Adrian Stanescu built qBike app as a commercial app.
+Adrian Stanescu built Bike dashboard app as a free app.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my application.
 
